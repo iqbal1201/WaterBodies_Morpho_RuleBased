@@ -32,9 +32,7 @@ Python Function to Classify Water Bodies Based on Rule-Based Decision System
                 return "Lake"
             else:
                 return "Pond"
-            
         else:
             return "River"
-        
     else:
         return "No"`
